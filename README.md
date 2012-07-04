@@ -5,4 +5,5 @@ Copy folder "AjaxLoader" into "protected/extensions".
 
 Usage
 To activate the widget paste the code in Layout
-<?php $this->widget('protected.extensions.AjaxLoader.AjaxLoaderWidget');?>
+
+$this->widget('ext.AjaxLoader.AjaxLoaderWidget');
